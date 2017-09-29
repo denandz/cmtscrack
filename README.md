@@ -7,5 +7,5 @@ $ cmtscrack ./config.cm ./wordlist
 ```
 
 ## notes
-*The number of threads to run is currently defined as a global variable, so tweak that to suit.
-*Based off original code dug up on codeplex somewhere. Issues with mutex locking killing performance on higher thread counts lead to this version.
+* The number of threads to run is currently defined as a global variable, so tweak that to suit.
+* Based off original code dug up on codeplex somewhere. Issues with mutex locking killing performance on higher thread counts lead to this version.
